@@ -13,6 +13,8 @@
     - [原価表](skill-network/network-2024_原価表_20220705.pdf)
     - [FAQ(よく聞かれる質問とその回答)](skill-network/network-2024_FAQ_20220705.pdf)
     - [見積り例](skill-network/network-2024_見積りの例_20220705.pdf)
+    - [提案書のテンプレート](https://docs.google.com/presentation/d/1pgMNGudMf0w62pDAg3KpnDutECviRNVBOt0JKlShCaQ/edit?usp=sharing)
+        - Google Slideです。好きなフォーマットでダウンロードして使ってください
 
 
 ## ITインフラ初心者向けLPI Webinar(2024-06-08開催)より
