@@ -15,6 +15,9 @@
     - [見積り例](skill-network/network-2024_見積りの例_20220705.pdf)
     - [提案書のテンプレート](https://docs.google.com/presentation/d/1pgMNGudMf0w62pDAg3KpnDutECviRNVBOt0JKlShCaQ/edit?usp=sharing)
         - Google Slideです。好きなフォーマットでダウンロードして使ってください
+    - 提案書の P.11 に登場する物理構成図の元ネタ	
+        - [libreoffice format](skill-network/network-2024_構成図テンプレート.odg)
+        - [png format](skill-network/network-2024_構成図テンプレート.png)
 
 
 ## ITインフラ初心者向けLPI Webinar(2024-06-08開催)より
