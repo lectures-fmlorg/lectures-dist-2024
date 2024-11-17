@@ -8,8 +8,8 @@
 
 ## コンピュータネットワーク
 
-- [スライド 第01-08回 合併版](skill-network/network-2024-text_01-08.pdf)
-- [スライド 第10-13回 合併版](skill-network/network-2024_設計編.pdf)
+- [スライド 第01-08回 合併版](skill-network/network-2024-text_01-08.pdf) ... ネットワークの基礎知識編
+- [スライド 第10-13回 合併版](skill-network/network-2024_設計編.pdf)     ... ネットワーク設計演習編
 - 設計編(第10-15回)の資料
     - [設計ガイド](skill-network/network-2024_設計ガイド_20220721.pdf)
     - [原価表](skill-network/network-2024_原価表_20220705.pdf)
