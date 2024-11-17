@@ -38,9 +38,6 @@
    - Bパートのハンズオン(動画8:45-51:35,スライドp.10-48)は復習にどうぞ
    - Cパートのキャリア形成についてのコラム(動画51:35-,スライドp.50-)は研究室紹介総論も兼ねています。
      いや、むしろCパートがメインか？Cパートは(ITインフラに限らず)エンジニア全般および学生向けのつもり
-- 動画
-
-[![ブラウザのフタを開けてHTTP体験しよう](https://img.youtube.com/vi/y84Asag9O1o/maxresdefault.jpg)](https://www.youtube.com/watch?v=y84Asag9O1o)
 
 
 ### Unixとコンピュータ開発史(超概論)
@@ -62,3 +59,9 @@
         1. [おわりに - <B>Free Software, the Endless Frontier</B> -](https://speakerdeck.com/fmlorg/sierutoperlnoshi-ifen-ke-souitutasi-kao-nodao-ju-ha-dokokaralai-te-dokoheyukunoka-v1-dot-1-0?slide=45)
 - 動画は、たぶん、現在、編集中だと思います。
   そのうち Youtube で見られるはずです
+
+
+### 動画
+
+[![ブラウザのフタを開けてHTTP体験しよう](https://img.youtube.com/vi/y84Asag9O1o/maxresdefault.jpg)](https://www.youtube.com/watch?v=y84Asag9O1o)
+LPI Webinar 2024-06-05
