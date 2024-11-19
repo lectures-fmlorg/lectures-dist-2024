@@ -9,7 +9,7 @@
 ## コンピュータネットワーク
 
 - [スライド 第01-08回 合併版](skill-network/network-2024-text_01-08.pdf) ... ネットワーク基礎知識編
-    - [動画](https://www.youtube.com/playlist?list=PLS2cEmI21XYI0JwmLPz4uddf4eKtWRUwX)
+    - [動画(Youtube再生リスト)](https://www.youtube.com/playlist?list=PLS2cEmI21XYI0JwmLPz4uddf4eKtWRUwX)
 - [スライド 第10-13回 合併版](skill-network/network-2024_設計編.pdf)     ... ネットワーク設計演習編
 - 設計演習編(第10-15回)の資料
     - [設計ガイド](skill-network/network-2024_設計ガイド_20220721.pdf)
@@ -26,7 +26,7 @@
 ## クラウドコンピューティング
 
 - [スライド 第01-08回 合併版](skill-cloud/SKILL-CLOUD_01-08.pdf) ... Unixタイムシェアリングシステムの基礎概念(1)権限(2)階層
-    - [動画](https://www.youtube.com/playlist?list=PLS2cEmI21XYLeOvQ4eGTLbYWrbBpyZIjt)
+    - [動画(Youtube再生リスト)](https://www.youtube.com/playlist?list=PLS2cEmI21XYLeOvQ4eGTLbYWrbBpyZIjt)
 - スライド 第10-12回 合併版 (予定) ... クラウドサービスの基礎
 
 
