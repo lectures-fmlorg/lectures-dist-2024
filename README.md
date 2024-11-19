@@ -41,8 +41,8 @@
 
 - [スライド](https://speakerdeck.com/fmlorg/burauzanohutawokai-ketehttpti-yan-siyou-20240608v1-dot-0-0)
    - 情報システム工学科3年生の「実務を全力でやるITインフラストラクチャ演習群」からの抜粋になっています。
-   - Bパートのハンズオン(動画8:45-51:35,スライドp.10-48)は復習にどうぞ
-   - Cパートのキャリア形成についてのコラム(動画51:35-,スライドp.50-)は研究室紹介総論も兼ねています。
+   - [Bパートのハンズオン](https://speakerdeck.com/fmlorg/burauzanohutawokai-ketehttpti-yan-siyou-20240608v1-dot-0-0?slide=10)(動画8:45-51:35,スライドp.10-48)は復習にどうぞ
+   - [Cパートのキャリア形成](https://speakerdeck.com/fmlorg/burauzanohutawokai-ketehttpti-yan-siyou-20240608v1-dot-0-0?slide=50)についてのコラム(動画51:35-,スライドp.50-)は研究室紹介総論も兼ねています。
      いや、むしろCパートがメインか？Cパートは(ITインフラに限らず)エンジニア全般および学生向けのつもり
 
 
