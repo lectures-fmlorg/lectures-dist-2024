@@ -38,6 +38,7 @@
 - [スライド 第10-12回 合併版](skill-cloud/SKILL-CLOUD_10-12.pdf) ... クラウドサービスの基礎
 - 補足資料
     - [ELBの設定](skill-cloud/SKILL-CLOUD-AUX_AWS-ELB.pdf)
+    - [Redisの設定] (skill-cloud/SKILL-CLOUD-AUX_Redis.pdf)
 
 
 
