@@ -37,6 +37,10 @@
     - [動画(Youtube再生リスト)](https://www.youtube.com/playlist?list=PLS2cEmI21XYLeOvQ4eGTLbYWrbBpyZIjt)
 - [スライド 第10-12回 合併版](skill-cloud/SKILL-CLOUD_10-12.pdf) ... クラウドサービスの基礎
 - 補足資料
+    - [WWWの基礎](skill-intro/SKILL-INTRO_WWW.pdf)
+    - [HTMLの基礎](skill-intro/SKILL-INTRO_HTML.pdf)
+    - [EC2の作成](skill-intro/SKILL-INTRO_EC2.pdf)
+    - [EIP(Elastic IP)を付ける](skill-intro/SKILL-INTRO_EIP.pdf)
     - [ELBの設定](skill-cloud/SKILL-CLOUD-AUX_AWS-ELB.pdf)
     - [www.pyを改造してキャッシュ(Redis)に値を保存する](skill-cloud/SKILL-CLOUD-AUX_Redis.pdf)
 
