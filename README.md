@@ -12,7 +12,11 @@
 ## 情報システム開発基礎演習 インフラ編 (#01-#06)
 
 - [インフラ編のスライド(第01-06回 合併版)](skill-intro/情報システム開発基礎演習（2024）_インフラ編.pdf)
-
+- 個別のテーマを抜き出した資料
+    - [WWWの基礎](skill-intro/SKILL-INTRO_WWW.pdf)
+    - [HTMLの基礎](skill-intro/SKILL-INTRO_HTML.pdf)
+    - [EC2の作成](skill-intro/SKILL-INTRO_EC2.pdf)
+    - [EIP(Elastic IP)を付ける](skill-intro/SKILL-INTRO_EIP.pdf)
 
 ## コンピュータネットワーク
 
