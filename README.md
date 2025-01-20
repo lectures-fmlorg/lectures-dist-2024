@@ -36,6 +36,8 @@
 - [スライド 第01-08回 合併版](skill-cloud/SKILL-CLOUD_01-08.pdf) ... Unixタイムシェアリングシステムの基礎概念(1)権限(2)階層
     - [動画(Youtube再生リスト)](https://www.youtube.com/playlist?list=PLS2cEmI21XYLeOvQ4eGTLbYWrbBpyZIjt)
 - [スライド 第10-12回 合併版](skill-cloud/SKILL-CLOUD_10-12.pdf) ... クラウドサービスの基礎
+- 補足資料
+    - [ELBの設定](skill-cloud/SKILL-CLOUD-AUX_AWS-ELB.pdf)
 
 
 
