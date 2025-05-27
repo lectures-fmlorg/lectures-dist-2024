@@ -9,6 +9,10 @@
      [Perl](https://unix-entrance.fml.org/perl/)、
      [Go言語編(インフラチームの研修兼)](https://lectures.fml.org/slides/training/infra-bootcamp/)があるからだ:-)
 
+
+- <b>2025年度版は、[こちら](https://2025.lectures.fml.org/)</b>
+
+
 ## 情報システム開発基礎演習 インフラ編 (#01-#06)
 
 - [インフラ編のスライド(第01-06回 合併版)](skill-intro/情報システム開発基礎演習（2024）_インフラ編.pdf)
